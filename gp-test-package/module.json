@@ -1,0 +1,36 @@
+{
+  "id": "gp-test-package",
+  "title": "Grim Press Test Package",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "This is a test package to verify that the fvtt fulfillment system is working",
+  "authors": [
+    {
+      "name": "Grim Press",
+      "email": "sales@grimpress.net",
+      "url": "https://grimpress.net",
+      "flags": {}
+    }
+  ],
+  "url": "https://grimpress.net/store/unearthed-spoils-007/",
+  "packs": [
+    {
+      "name": "adventures",
+      "label": "Adventures (Grim Press Test Package)",
+      "path": "packs/adventures",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ],
+  "manifest": "https://rc8gy199n3.execute-api.us-east-2.amazonaws.com/prod/gpfulfillmentlambda/gp-test-package/module.json",
+  "protected": true
+  "release": "https://rc8gy199n3.execute-api.us-east-2.amazonaws.com/prod/gpfulfillmentlambda/gp-test-package/module.json"
+}
