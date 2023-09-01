@@ -31,6 +31,6 @@
     }
   ],
   "manifest": "https://rc8gy199n3.execute-api.us-east-2.amazonaws.com/prod/gpfulfillmentlambda/gp-test-package/module.json",
-  "protected": true
+  "protected": true,
   "release": "https://rc8gy199n3.execute-api.us-east-2.amazonaws.com/prod/gpfulfillmentlambda/gp-test-package/module.json"
 }
