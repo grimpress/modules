@@ -36,6 +36,7 @@
   "relationships": {
     "systems": [{"id": "dnd5e"}]
   },
-    "manifest": "https://gp-vtt.s3.us-east-2.amazonaws.com/fvtt/allies-and-antagonists.zip",
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/allies-and-antagonists/module.json",
+    "release": "https://raw.githubusercontent.com/grimpress/modules/main/allies-and-antagonists/module.json",
     "protected": true
 }
