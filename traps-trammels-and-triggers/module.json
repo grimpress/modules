@@ -1,0 +1,39 @@
+{
+    "id": "traps-trammels-and-triggers",
+    "name": "traps-trammels-and-triggers",
+    "title": "Traps, Trammels, and Triggers",
+    "description": "Nefarious Devices for 5e",
+    "version": "1.0.2",
+    "compatibility": {
+        "minimum": "9",
+        "verified": "10"
+    },
+    "authors": [
+        { "name": "Grim Press" }
+    ],
+    "packs": [
+        {
+            "name": "trap-trammels-and-triggers",
+            "label": "Traps, Trammels, and Triggers",
+            "path": "./packs/items.db",
+            "type": "Item",
+            "system": "dnd5e"
+        },
+        {
+            "name": "traps-journal-entries",
+            "label": "Traps, Trammels, and Triggers Journal Entries",
+            "path": "./packs/journal-entries.db",
+            "type": "JournalEntry",
+            "system": "dnd5e"
+        },
+        {
+            "name": "traps-roll-tables",
+            "label": "Traps,Trammels, and Triggers Roll Tables",
+            "path": "./packs/roll-tables.db",
+            "type": "RollTable",
+            "system": "dnd5e"
+        }
+    ],
+    "manifest": "https://gp-vtt.s3.us-east-2.amazonaws.com/fvtt/traps-trammels-and-triggers.zip",
+    "protected": true
+}
