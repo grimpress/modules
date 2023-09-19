@@ -1,0 +1,36 @@
+{
+  "id": "cavern-crawls-5-pack-001-005",
+  "title": "Grim Press Cavern Crawls 1 through 5 bundle",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "Grim Press Cavern Crawls 1 through 5 bundle",
+  "authors": [
+    {
+      "name": "Grim Press",
+      "email": "sales@grimpress.net",
+      "url": "https://grimpress.net",
+      "flags": {}
+    }
+  ],
+  "url": "https://grimpress.net/store/",
+  "packs": [
+    {
+      "name": "adventures",
+      "label": "Adventures (Cavern Crawl Bundle 1 through 5)",
+      "path": "packs/adventures",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ],
+  "manifest": "https://gp-vtt.s3.us-east-2.amazonaws.com/fvtt/cavern-crawls-5-pack-001-005.zip",
+  "protected": true,
+  "release": "https://gp-vtt.s3.us-east-2.amazonaws.com/fvtt/cavern-crawls-5-pack-001-005.zip"
+}
