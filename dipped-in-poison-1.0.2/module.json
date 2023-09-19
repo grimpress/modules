@@ -1,0 +1,59 @@
+{
+    "name": "dipped-in-poison",
+    "title": "Dipped in Poison",
+    "description": "Unearthed Spoils 5e Digital Magazine: Volume 4",
+    "version": "1.0.2",
+    "author": "Grim Press",
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "10",
+    "packs": [
+        {
+            "name": "dipped-in-poison-creatures",
+            "label": "Dipped in Poison - Creatures",
+            "path": "./packs/creatures.db",
+            "entity": "Actor",
+            "type": "Actor"
+        },
+        {
+            "name": "dipped-in-poison-items",
+            "label": "Dipped in Poison - Items",
+            "path": "./packs/items.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "dipped-in-poison-classes",
+            "label": "Dipped in Poison - Classes",
+            "path": "./packs/class.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "dipped-in-poison-class-features",
+            "label": "Dipped in Poison - Class Features",
+            "path": "./packs/classfeatures.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "dipped-in-poison-journal-entries",
+            "label": "Dipped in Poison - Journal Entries",
+            "path": "./packs/journal-entries.db",
+            "entity": "JournalEntry",
+            "type": "JournalEntry"
+        },
+        {
+            "name": "dipped-in-poison-spells",
+            "label": "Dipped in Poison - Spells",
+            "path": "./packs/spells.db",
+            "entity": "Item",
+            "type": "Item"
+        }
+    ],
+  "relationships": {
+    "systems": [{"id": "dnd5e"}]
+  },
+  "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/dipped-in-poison-1.0.2/module.json",
+  "release": "https://raw.githubusercontent.com/grimpress/modules/main/dipped-in-poison-1.0.2/module.json",
+    "protected": true
+}

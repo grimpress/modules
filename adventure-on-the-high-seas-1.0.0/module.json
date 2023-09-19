@@ -1,0 +1,33 @@
+{
+  "id": "adventure-on-the-high-seas",
+  "name": "adventure-on-the-high-seas",
+  "title": "Adventure on the High Seas",
+  "description": "New additions, ideas, subclasses and varient rules for your ship faring adventures",
+  "version": "1.0.0",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "10",
+  "compatibility": {
+    "minimum": 10,
+    "verified": 10
+  },
+	"authors": [
+    {
+      "name": "Grim Press"
+    }
+  ],
+  "packs": [
+      {
+      "name": "adventure-on-the-high-seas",
+      "label": "Adventure on the High Seas",
+      "path": "packs/adventure-on-the-high-seas.db",
+      "type": "Adventure",
+      "system": "dnd5e"
+        }
+  ],
+  "styles": [
+    "./styles/aohs.css"
+  ],
+  "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/adventure-on-the-high-seas-1.0.0/module.json",
+  "release": "https://raw.githubusercontent.com/grimpress/modules/main/adventure-on-the-high-seas-1.0.0/module.json",
+  "protected": true
+}

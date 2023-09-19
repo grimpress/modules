@@ -1,0 +1,66 @@
+{
+    "name": "surviving-the-arctic",
+    "title": "Surviving the Arctic (5e)",
+    "description": "Unearthed Spoils Digital Magazine: Volume 5",
+    "version": "1.0.3",
+    "author": "Grim Press",
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "10",
+    "packs": [
+        {
+            "name": "sta-creatures",
+            "label": "Surviving the Arctic - Creatures",
+            "path": "./packs/creatures.db",
+            "type": "Actor",
+            "system": "dnd5e"
+        },
+        {
+            "name": "sta-magitems",
+            "label": "Surviving the Arctic - Magic Items",
+            "path": "./packs/magitems.db",
+            "type": "Item",
+            "system": "dnd5e"
+        },
+        {
+            "name": "sta-classes",
+            "label": "Surviving the Arctic - Archetypes",
+            "path": "./packs/archetypes.db",
+            "type": "Item",
+            "system": "dnd5e"
+        },
+        {
+            "name": "sta-classfeatures",
+            "label": "Surviving the Arctic - Archetype Features",
+            "path": "./packs/archetypefeats.db",
+            "type": "Item",
+            "system": "dnd5e"
+        },
+        {
+            "name": "sta-spells",
+            "label": "Surviving the Arctic - Spells",
+            "path": "./packs/spells.db",
+            "type": "Item",
+            "system": "dnd5e"
+        },
+        {
+            "name": "sta-scenes",
+            "label": "Surviving the Arctic - Scenes",
+            "path": "./packs/scenes.db",
+            "type": "Scene",
+            "system": "dnd5e"
+        },
+        {
+            "name": "sta-journal-entries",
+            "label": "Surviving the Arctic - Journal Entries",
+            "path": "./packs/journal-entries.db",
+            "type": "JournalEntry",
+            "system": "dnd5e"
+        }
+    ],
+  "relationships": {
+    "systems": [{"id": "dnd5e"}]
+  },
+  "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/surviving-the-arctic-1.0.3/module.json",
+  "release":"https://raw.githubusercontent.com/grimpress/modules/main/surviving-the-arctic-1.0.3/module.json",
+    "protected": true
+}

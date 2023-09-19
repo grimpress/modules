@@ -1,0 +1,59 @@
+{
+    "name": "death-in-darkness",
+    "title": "Death in the Darkness",
+    "description": "Unearthed Spoils 5e Digital Magazine: Volume III: Death in the Darkness.",
+    "version": "1.0.1",
+    "author": "Grimpress",
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "10",
+    "packs": [
+        {
+            "name": "ghoulish-bestiary",
+            "label": "Death in Darkness - Ghoulish Bestiary",
+            "path": "./packs/creatures.db",
+            "entity": "Actor",
+            "type": "Actor"
+        },
+        {
+            "name": "magic-items",
+            "label": "Death in Darkness - Magic Items",
+            "path": "./packs/items.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "magical-spells",
+            "label": "Death in Darkness - Magical Spells",
+            "path": "./packs/spells.db",
+            "entity": "Item",
+            "type": "Item"
+        },     
+        {
+            "name": "undead-traits",
+            "label": "Death in Darkness - Undead Traits",
+            "path": "./packs/npc-features.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "undead-encounter",
+            "label": "Death in Darkness - Undead Encounter",
+            "path": "./packs/scenes.db",
+            "entity": "Scene",
+            "type": "Scene"
+        },
+        {
+            "name": "death-in-darkness-journal",
+            "label": "Death in Darkness - Journal Entries",
+            "path": "./packs/journal-entries.db",
+            "entity": "JournalEntry",
+            "type": "JournalEntry"
+        }
+    ],
+  "relationships": {
+    "systems": [{"id": "dnd5e"}]
+  },
+  "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/death-in-darkness-v1.0.1/module.json",
+  "release": "https://raw.githubusercontent.com/grimpress/modules/main/death-in-darkness-v1.0.1/module.json",
+    "protected": true
+ }

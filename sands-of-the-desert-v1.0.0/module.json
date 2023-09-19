@@ -1,0 +1,87 @@
+{
+  "id": "sands-of-the-desert",
+  "name": "sands-of-the-desert",
+  "title": "Sands of the Desert (5e)",
+  "description": "Unearthed Spoils Digital Magazine: Volume 7",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Grim Press",
+	  "url": "https://grimpress.net/",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "0.8.8",
+    "verified": "10"
+  },
+  "packs": [
+    {
+      "name": "module-creatures",
+      "label": "Creatures (Sands of the Desert)",
+      "path": "packs/creatures.db",
+      "type": "Actor",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "module-items",
+      "label": "Magic Items (Sands of the Desert)",
+      "path": "packs/items.db",
+      "type": "Item",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+	{
+	  "name": "module-spells",
+      "label": "Spells (Sands of the Desert)",
+      "path": "packs/spells.db",
+      "type": "Item",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+	{
+	  "name": "module-subclasses",
+      "label": "Subclasses (Sands of the Desert)",
+      "path": "packs/subclasses.db",
+      "type": "Item",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+	{
+	  "name": "module-features",
+      "label": "Class Features (Sands of the Desert)",
+      "path": "packs/features.db",
+      "type": "Item",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "module-journal-entries",
+      "label": "Journal Entries (Sands of the Desert)",
+      "path": "packs/journal-entries.db",
+      "type": "JournalEntry",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "module-roll-tables",
+      "label": "Roll Tables (Sands of the Desert)",
+      "path": "packs/roll-tables.db",
+      "type": "RollTable",
+      "private": false,
+      "flags": {}
+    }
+  ],
+    "styles": [
+    "./styles/gp_sotd.css"
+  ],
+  "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/sands-of-the-desert-v1.0.0/module.json",
+  "release":"https://raw.githubusercontent.com/grimpress/modules/main/sands-of-the-desert-v1.0.0/module.json",
+  "protected": true
+}
