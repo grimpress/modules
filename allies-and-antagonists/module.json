@@ -1,0 +1,41 @@
+{
+    "id": "allies-and-antagonists",
+    "name": "allies-and-antagonists",
+    "title": "Allies and Antagonists",
+    "description": "A big book of NPCs for 5e",
+    "version": "1.1.0",
+    "compatibility": {
+        "minimum": "9",
+        "verified": "10"
+    },
+    "authors": [
+        { "name": "Grim Press" }
+    ],
+    "packs": [
+        {
+            "name": "allies-and-antagonists",
+            "label": "Allies and Antagonists",
+            "path": "./packs/creatures.db",
+            "type": "Actor"
+        },
+        {
+            "name": "allies-and-antagonist-items",
+            "label": "Allies and Antognists Items",
+            "path": "./packs/items.db",
+            "type": "Item"
+
+        },
+        {
+            "name": "allies-and-antagonists-journal-entries",
+            "label": "Allies and Antagonists",
+            "path": "./packs/journal-entries.db",
+            "type": "JournalEntry"
+        }
+
+    ],
+  "relationships": {
+    "systems": [{"id": "dnd5e"}]
+  },
+    "manifest": "https://gp-vtt.s3.us-east-2.amazonaws.com/fvtt/allies-and-antagonists.zip",
+    "protected": true
+}
