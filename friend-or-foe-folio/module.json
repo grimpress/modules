@@ -1,0 +1,36 @@
+{
+  "name": "friend-or-foe-folio",
+  "title": "Friend or Foe Folio",
+  "description": "One Hundred NPCs to help or hinder adventurers as they embark on epic quests!",
+  "version": "1.0.2",
+  "authors": [{
+    "name": "Grim Press",
+    "website": "https://grimpress.net"
+  }],
+  "compatibility": {
+    "minimum": "0.8.6",
+    "verified": "10"
+  },
+  "packs": [
+    {
+      "name": "friend-or-foe-creatures",
+      "label": "Friend or Foe Creatures",
+      "path": "./packs/creatures.db",
+      "entity": "Actor",
+      "type": "Actor"
+    },
+    {
+      "name": "friend-or-foe-journal-entries",
+      "label": "Friend or Foe Journal Entries",
+      "path": "./packs/journal-entries.db",
+      "entity": "JournalEntry",
+      "type": "JournalEntry"
+    }
+  ],
+  "relationships": {
+    "systems": [{"id": "dnd5e"}]
+  },
+  "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/friend-or-foe-folio/module.json",
+  "release":"https://raw.githubusercontent.com/grimpress/modules/main/friend-or-foe-Folio/module.json",
+  "protected": true
+}

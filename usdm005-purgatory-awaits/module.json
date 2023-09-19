@@ -1,0 +1,32 @@
+{
+    "id": "usdm005-purgatory-awaits",
+    "name": "usdm005-purgatory-awaits",
+    "title": "Unearthed Spoils 005 - Purgatory Awaits",
+    "description": "The lower planes ascribe to chaos and wanton violence. Its hierarchy embodies survival of the fittest - irony at its best.",
+    "version": "1.0.3",
+    "authors": [
+        {
+            "name": "Grim Press",
+            "discord": "https://discord.gg/grimpress",
+            "url": "https://grimpress.net/"
+        }
+    ],
+    "minimumCoreVersion": "11.304",
+    "compatibleCoreVersion": "11.304",
+    "compatibility": {
+        "minimum": "11.304",
+        "verified": "11.304"
+    },
+    "packs": [
+        {
+            "name": "usdm005-purgatory-awaits",
+            "label": "USDM05 - Purgatory Awaits Adventures",
+            "path": "./packs/adventures.db",
+            "type": "Adventure",
+            "system": "dnd5e"			
+        }
+    ],
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/usdm005-purgatory-awaits/module.json",
+    "release":"https://raw.githubusercontent.com/grimpress/modules/main/usdm005-purgatory-awaits/module.json",
+    "protected": true
+  }

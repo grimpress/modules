@@ -1,0 +1,30 @@
+{
+  "id": "wilderness-map-collection",
+  "title": "Wilderness Map Collection",
+  "description": "<p><strong>50</strong> new Wilderness Maps for your adventuring party to explore. </p><p>All ready to go with lighting and walls already set up.</p><p>System agnostic Scene compendium pack</p>",
+  "version": "1.0.0",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "10",
+  "compatibility": {
+    "minimum": 10,
+    "verified": 10
+  },
+	"authors": [
+    {
+      "name": "Grim Press"
+    }
+  ],
+  "packs": [
+      {
+      "name": "wilderness-map-collection",
+      "label": "Wilderness Map Collection",
+      "path": "packs/wilderness-map-collection.db",
+      "type": "Scene"
+        }
+  ],
+  "url":"https://grimpress.net/store/",
+  
+  "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/wilderness-map-collection/module.json",
+  "release":"https://raw.githubusercontent.com/grimpress/modules/main/wilderness-map-collection/module.json",
+  "protected": true
+}

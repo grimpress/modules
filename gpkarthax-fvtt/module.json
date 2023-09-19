@@ -1,0 +1,80 @@
+{
+    "id": "gpkarthax-living-tower",
+    "title": "Karthax: The Living Tower",
+    "description": "A Dungeons and Dragons 5th Edition compatible adventure for players of 2nd to 8th level",
+    "version": "1.0.3",
+    "author": "Grim Press",
+    "authors": [
+        {
+            "name": "Grim Press",
+            "discord": "https://discord.gg/grimpress",
+            "url": "https://www.grimpress.net"
+        }
+    ],
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "9",
+    "compatibility": {
+        "minimum": 9,
+        "verified": "10.286"
+    },
+    "packs": [
+        {
+            "name": "karthax-creatures",
+            "label": "Karthax: The Living Tower - Creatures",
+            "path": "./packs/creatures.db",
+            "type": "Actor",
+            "system": "dnd5e"
+        },
+        {
+            "name": "karthax-items",
+            "label": "Karthax: The Living Tower - Items",
+            "path": "./packs/items.db",
+            "type": "Item",
+            "system": "dnd5e"
+        },
+        {
+            "name": "karthax-scenes",
+            "label": "Karthax: The Living Tower - Scenes",
+            "path": "./packs/scenes.db",
+            "type": "Scene",
+            "system": "dnd5e"
+        },
+        {
+            "name": "karthax-journal-entries",
+            "label": "Karthax: The Living Tower - Journal Entries",
+            "path": "./packs/journal-entries.db",
+            "type": "JournalEntry",
+            "system": "dnd5e"
+        },
+        {
+            "name": "karthax-spells",
+            "label": "Karthax: The Living Tower - Spells",
+            "path": "./packs/spells.db",
+            "type": "Item",
+            "system": "dnd5e"
+        },
+        {
+            "name": "karthax-roll-tables",
+            "label": "Karthax: The Living Tower - Roll Tables",
+            "path": "./packs/roll-tables.db",
+            "type": "RollTable",
+            "system": "dnd5e"
+        },
+        {
+            "name": "karthax-playlists",
+            "label": "Karthax: The Living Tower - Playlists",
+            "path": "./packs/playlists.db",
+            "type": "Playlist",
+            "system": "dnd5e"
+        },
+        {
+            "name": "karthax-adventure",
+            "label": "Karthax: The Living Tower - Adventure",
+            "path": "./packs/adventure.db",
+            "type": "Adventure",
+            "system": "dnd5e"
+        }
+    ],"manifest": "https://raw.githubusercontent.com/grimpress/modules/main/gpkarthax-fvtt/module.json",
+    "release":"https://raw.githubusercontent.com/grimpress/modules/main/gpkarthax-fvtt/module.json",
+    "protected": true
+  }

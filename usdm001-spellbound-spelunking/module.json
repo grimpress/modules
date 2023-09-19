@@ -1,0 +1,33 @@
+{
+    "id": "usdm001-spellbound-spelunking",
+    "name": "usdm001-spellbound-spelunking",
+    "title": "USDM001 - Spellbound Spelunking",
+    "description": "Unearthed Spoils Digital Magazine, Volume #001.",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Grim Press",
+            "discord": "https://discord.gg/grimpress",
+            "url": "https://grimpress.net/"
+        }
+    ],
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "9",
+    "compatibility": {
+        "minimum": "0.8.6",
+        "verified": "10"
+    },
+    "packs": [
+        {
+            "name": "usdm001-spellbound-spelunking-adventures",
+            "label": "Spellbound Spelunking Adventures",
+            "path": "./packs/adventures.db",
+            "entity": "Adventure",
+            "type": "Adventure",
+            "system": "dnd5e"			
+        }
+    ],
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/usdm001-spellbound-spelunking/module.json",
+    "release":"https://raw.githubusercontent.com/grimpress/modules/main/usdm001-spellbound-spelunking/module.json",
+    "protected": true
+  }

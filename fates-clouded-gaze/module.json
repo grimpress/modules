@@ -1,0 +1,52 @@
+{
+    "name": "fates-clouded-gaze",
+    "title": "Fate's Clouded Gaze",
+    "description": "A 5e Compatible multi-floor dungeon crawl optimized for 4-6 players of 3rd level.",
+    "version": "1.0.4",
+    "author": "Grim press",
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "10",
+    "packs": [
+        {
+            "name": "fates-creatures",
+            "label": "Fate's Clouded Creatures",
+            "path": "./packs/creatures.db",
+            "entity": "Actor",
+            "type": "Actor"
+        },
+        {
+            "name": "fates-items",
+            "label": "Fate's Clouded Items",
+            "path": "./packs/items.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "fates-scenes",
+            "label": "Fate's Clouded Scenes",
+            "path": "./packs/scenes.db",
+            "entity": "Scene",
+            "type": "Scene"
+        },
+        {
+            "name": "fates-journal-entries",
+            "label": "Fate's Clouded Journal Entries",
+            "path": "./packs/journal-entries.db",
+            "entity": "JournalEntry",
+            "type": "JournalEntry"
+        },
+        {
+            "name": "fates-macros",
+            "label": "Fate's Clouded Macros",
+            "path": "./packs/macros.db",
+            "entity": "Macro",
+            "type": "Macro"
+        }
+    ],
+  "relationships": {
+    "systems": [{"id": "dnd5e"}]
+  },
+  "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/fates-clouded-gaze/module.json",
+  "release":"https://raw.githubusercontent.com/grimpress/modules/main/fates-clouded-gaze/module.json",
+    "protected": true
+}
