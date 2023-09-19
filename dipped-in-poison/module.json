@@ -53,7 +53,7 @@
   "relationships": {
     "systems": [{"id": "dnd5e"}]
   },
-  "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/dipped-in-poison-1.0.2/module.json",
-  "release": "https://raw.githubusercontent.com/grimpress/modules/main/dipped-in-poison-1.0.2/module.json",
+  "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/dipped-in-poison/module.json",
+  "release": "https://raw.githubusercontent.com/grimpress/modules/main/dipped-in-poison/module.json",
     "protected": true
 }

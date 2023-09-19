@@ -60,7 +60,7 @@
   "relationships": {
     "systems": [{"id": "dnd5e"}]
   },
-  "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/surviving-the-arctic-1.0.3/module.json",
-  "release":"https://raw.githubusercontent.com/grimpress/modules/main/surviving-the-arctic-1.0.3/module.json",
+  "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/surviving-the-arctic/module.json",
+  "release":"https://raw.githubusercontent.com/grimpress/modules/main/surviving-the-arctic/module.json",
     "protected": true
 }

@@ -53,7 +53,7 @@
   "relationships": {
     "systems": [{"id": "dnd5e"}]
   },
-  "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/death-in-darkness-v1.0.1/module.json",
-  "release": "https://raw.githubusercontent.com/grimpress/modules/main/death-in-darkness-v1.0.1/module.json",
+  "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/death-in-darkness/module.json",
+  "release": "https://raw.githubusercontent.com/grimpress/modules/main/death-in-darkness/module.json",
     "protected": true
  }

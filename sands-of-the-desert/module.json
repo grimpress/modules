@@ -81,7 +81,7 @@
     "styles": [
     "./styles/gp_sotd.css"
   ],
-  "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/sands-of-the-desert-v1.0.0/module.json",
-  "release":"https://raw.githubusercontent.com/grimpress/modules/main/sands-of-the-desert-v1.0.0/module.json",
+  "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/sands-of-the-desert/module.json",
+  "release":"https://raw.githubusercontent.com/grimpress/modules/main/sands-of-the-desert/module.json",
   "protected": true
 }

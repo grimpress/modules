@@ -31,6 +31,6 @@
     }
   ],
   "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/gp-test-package/module.json",
-  "protected": true,
-  "release": "https://raw.githubusercontent.com/grimpress/modules/main/gp-test-package/module.json"
+  "release": "https://raw.githubusercontent.com/grimpress/modules/main/gp-test-package/module.json",
+  "protected": true
 }
