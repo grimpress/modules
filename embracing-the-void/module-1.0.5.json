@@ -1,0 +1,82 @@
+{
+    "id": "embracing-the-void",
+    "name": "embracing-the-void",
+    "title": "Embracing the Void",
+    "description": "Unearthed Spoils 5e Digital Magazine.",
+    "version": "1.0.5",
+    "compatibility": {
+        "minimum": "9",
+        "verified": "10"
+    },
+    "authors": [
+        { "name": "Grim Press" }
+    ],
+    "system": "dnd5e",
+    "packs": [
+        {
+            "name": "void-creatures",
+            "label": "Embracing the Void - Creatures",
+            "path": "./packs/creatures.db",
+            "type": "Actor",
+            "system": "dnd5e"
+        },
+        {
+            "name": "void-items",
+            "label": "Embracing the Void - Items",
+            "path": "./packs/items.db",
+            "type": "Item",
+            "system": "dnd5e"
+        },
+        {
+            "name": "void-spells",
+            "label": "Embracing the Void - Spells",
+            "path": "./packs/items2.db",
+            "type": "Item",
+            "system": "dnd5e"
+        },
+        {
+            "name": "void-subclasses",
+            "label": "Embracing the Void - Subclasses",
+            "path": "./packs/items3.db",
+            "type": "Item",
+            "system": "dnd5e"
+        },
+        {
+            "name": "void-subclass-features",
+            "label": "Embracing the Void - Subclass Features",
+            "path": "./packs/items4.db",
+            "type": "Item",
+            "system": "dnd5e"
+        },
+        {
+            "name": "void-scenes",
+            "label": "Embracing the Void - Scenes",
+            "path": "./packs/scenes.db",
+            "type": "Scene",
+            "system": "dnd5e"
+        },
+        {
+            "name": "void-journal-entries",
+            "label": "Embracing the Void - Journal Entries",
+            "path": "./packs/journal-entries.db",
+            "type": "JournalEntry",
+            "system": "dnd5e"
+        },
+        {
+            "name": "void-roll-tables",
+            "label": "Embracing the Void - Roll Tables",
+            "path": "./packs/roll-tables.db",
+            "type": "RollTable",
+            "system": "dnd5e"
+        },
+        {
+            "name": "void-macros",
+            "label": "Embracing the Void - Macros",
+            "path": "./packs/macros.db",
+            "type": "Macro",
+            "system": "dnd5e"
+        }
+    ],
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/embracing-the-void/module-1.0.5.json",
+    "protected": true
+}
