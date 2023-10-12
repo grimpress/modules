@@ -1,5 +1,5 @@
 {
-    "id": "gpkarthax-fvtt",
+    "id": "gpkarthax-living-tower",
     "title": "Karthax: The Living Tower",
     "description": "A Dungeons and Dragons 5th Edition compatible adventure for players of 2nd to 8th level",
     "version": "1.0.3",
@@ -74,7 +74,7 @@
             "type": "Adventure",
             "system": "dnd5e"
         }
-    ],"manifest": "https://raw.githubusercontent.com/grimpress/modules/main/gpkarthax-fvtt/module.json",
-    "release":"https://raw.githubusercontent.com/grimpress/modules/main/gpkarthax-fvtt/module.json",
+    ],"manifest": "https://raw.githubusercontent.com/grimpress/modules/main/gpkarthax-living-tower/module.json",
+    "release":"https://raw.githubusercontent.com/grimpress/modules/main/gpkarthax-living-tower/module.json",
     "protected": true
   }
