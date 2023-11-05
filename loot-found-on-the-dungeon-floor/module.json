@@ -1,0 +1,71 @@
+{
+  "id": "loot-found-on-the-dungeon-floor",
+  "title": "Loot Found on the Dungeon Floor",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "This product is a collaborative effort by several experienced content creators to write up some new and interesting magical items for players in the world's greatest roleplaying game to find in their adventures. You'll find over two hundred unique magic items that you can insert into the dungeons, catacombs, treasure chests, and tombs that your players invariably search for loot.",
+  "authors": [
+    {
+      "name": "Grim Press",
+      "email": "sales@grimpress.net",
+      "url": "https://grimpress.net",
+      "flags": {}
+    }
+  ],
+  "packs": [
+      {
+      "name": "lotf-journal",
+      "label": "LfotDF Journal",
+      "path": "packs/lfotdf-journal",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },  
+    {
+      "name": "lfotdf-items",
+      "label": "LfotDF Items",
+      "path": "packs/lfotdf-items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "lfotdf-npcs",
+      "label": "LfotDF NPCs",
+      "path": "packs/lfotdf-npcs",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "lfotdf-tables",
+      "label": "LfotDF Tables",
+      "path": "packs/lfotdf-tables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },    
+	"manifest": "https://raw.githubusercontent.com/grimpress/modules/main/loot-found-on-the-dungeon-floor/module.json",
+    "release": "https://raw.githubusercontent.com/grimpress/modules/main/loot-found-on-the-dungeon-floor/module.json"
+    "protected": true
+  ]
+}
