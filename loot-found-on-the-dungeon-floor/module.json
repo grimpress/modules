@@ -1,7 +1,7 @@
 {
   "id": "loot-found-on-the-dungeon-floor",
   "title": "Loot Found on the Dungeon Floor",
-  "version": "11.0.0",
+  "version": "1.0.0",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
