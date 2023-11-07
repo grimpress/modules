@@ -3,10 +3,10 @@
     "name": "allies-and-antagonists",
     "title": "Allies and Antagonists",
     "description": "A big book of NPCs for 5e",
-    "version": "1.1.0",
+    "version": "11.0.0",
     "compatibility": {
         "minimum": "9",
-        "verified": "10"
+        "verified": "11"
     },
     "authors": [
         { "name": "Grim Press" }
