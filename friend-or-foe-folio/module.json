@@ -30,7 +30,7 @@
   "relationships": {
     "systems": [{"id": "dnd5e"}]
   },
-  "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/friend-or-foe-folio.json",
-  "release":"https://raw.githubusercontent.com/grimpress/modules/main/friend-or-foe-Folio.json",
+  "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/friend-or-foe-folio/module.json",
+  "release":"https://raw.githubusercontent.com/grimpress/modules/main/friend-or-foe-Folio/module.json",
   "protected": true
 }
