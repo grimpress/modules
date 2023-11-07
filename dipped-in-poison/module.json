@@ -1,11 +1,11 @@
 {
     "name": "dipped-in-poison",
     "title": "Dipped in Poison",
-    "description": "Unearthed Spoils 5e Digital Magazine: Volume 4",
-    "version": "1.1.0",
+    "description": "Dipped in Poison",
+    "version": "11.0.0",
     "author": "Grim Press",
     "minimumCoreVersion": "0.8.6",
-    "compatibleCoreVersion": "10",
+    "compatibleCoreVersion": "11",
     "packs": [
         {
             "name": "dipped-in-poison-creatures",
@@ -55,5 +55,5 @@
   },
   "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/dipped-in-poison/module.json",
   "release": "https://raw.githubusercontent.com/grimpress/modules/main/dipped-in-poison/module.json",
-    "protected": true
+  "protected": true
 }
