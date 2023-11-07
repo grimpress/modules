@@ -1,11 +1,11 @@
 {
     "name": "death-in-darkness",
     "title": "Death in the Darkness",
-    "description": "Unearthed Spoils 5e Digital Magazine: Volume III: Death in the Darkness.",
-    "version": "1.1.0",
+    "description": "Death in the Darkness",
+    "version": "11.0.0",
     "author": "Grimpress",
     "minimumCoreVersion": "0.8.6",
-    "compatibleCoreVersion": "10",
+    "compatibleCoreVersion": "11",
     "packs": [
         {
             "name": "ghoulish-bestiary",
@@ -55,5 +55,5 @@
   },
   "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/death-in-darkness/module.json",
   "release": "https://raw.githubusercontent.com/grimpress/modules/main/death-in-darkness/module.json",
-    "protected": true
+  "protected": true
  }
