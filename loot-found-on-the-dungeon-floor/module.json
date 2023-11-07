@@ -65,7 +65,7 @@
       "flags": {}
     },    
 	"manifest": "https://raw.githubusercontent.com/grimpress/modules/main/loot-found-on-the-dungeon-floor/module.json",
-    "release": "https://raw.githubusercontent.com/grimpress/modules/main/loot-found-on-the-dungeon-floor/module.json"
+    "release": "https://raw.githubusercontent.com/grimpress/modules/main/loot-found-on-the-dungeon-floor/module.json",
     "protected": true
   ]
 }
