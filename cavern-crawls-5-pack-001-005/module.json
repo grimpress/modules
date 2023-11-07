@@ -1,12 +1,12 @@
 {
   "id": "cavern-crawls-5-pack-001-005",
-  "title": "Grim Press Cavern Crawls 1 through 5 bundle",
-  "version": "1.0.0",
+  "title": "Grim Press Cavern Crawls 5 Pack (001-005)",
+  "version": "11.0.0",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
   },
-  "description": "Grim Press Cavern Crawls 1 through 5 bundle",
+  "description": "Cavern Crawls bundle of 1 through 5 ",
   "authors": [
     {
       "name": "Grim Press",
@@ -19,7 +19,7 @@
   "packs": [
     {
       "name": "adventures",
-      "label": "Adventures (Cavern Crawl Bundle 1 through 5)",
+      "label": "Adventures",
       "path": "packs/adventures",
       "type": "Adventure",
       "ownership": {
