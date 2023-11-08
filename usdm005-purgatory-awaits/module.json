@@ -14,8 +14,8 @@
     "minimumCoreVersion": "11.304",
     "compatibleCoreVersion": "11.304",
     "compatibility": {
-        "minimum": "11.304",
-        "verified": "11.304"
+        "minimum": "11",
+        "verified": "11"
     },
     "packs": [
         {
