@@ -78,5 +78,6 @@
         }
     ],
     "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/embracing-the-void/module.json",
+    "release":"https://raw.githubusercontent.com/grimpress/modules/main/embracing-the-void/module.json",
     "protected": true
 }
