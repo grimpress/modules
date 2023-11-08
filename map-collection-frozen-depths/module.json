@@ -47,7 +47,8 @@
       "type": "Scene"
         }
   ],
-  "url":"https://grimpress.net/store/map-collection-frozen-depths",
-  "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/map-collection-frozen-depths/module-1.0.0.json",
+
+  "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/map-collection-frozen-depths/module.json",
+  "release": "https://raw.githubusercontent.com/grimpress/modules/main/map-collection-frozen-depths/module.json",
   "protected": true
 }
