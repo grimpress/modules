@@ -3,13 +3,15 @@
     "name": "traps-trammels-and-triggers",
     "title": "Traps, Trammels, and Triggers",
     "description": "Nefarious Devices for 5e",
-    "version": "11.0.",
+    "version": "11.0.0",
     "compatibility": {
         "minimum": "9",
         "verified": "11"
     },
     "authors": [
-        { "name": "Grim Press" }
+        {
+            "name": "Grim Press"
+        }
     ],
     "packs": [
         {
