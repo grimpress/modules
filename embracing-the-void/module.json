@@ -3,10 +3,10 @@
     "name": "embracing-the-void",
     "title": "Embracing the Void",
     "description": "Unearthed Spoils 5e Digital Magazine.",
-    "version": "1.0.5",
+    "version": "11.0.0",
     "compatibility": {
         "minimum": "9",
-        "verified": "10"
+        "verified": "11"
     },
     "authors": [
         { "name": "Grim Press" }
@@ -77,6 +77,6 @@
             "system": "dnd5e"
         }
     ],
-    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/embracing-the-void/module-1.0.5.json",
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/embracing-the-void/module.json",
     "protected": true
 }
