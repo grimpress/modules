@@ -52,7 +52,7 @@
             "flags": {}
         }
     ],
-    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/friend-or-foe-folio-2/module-1.0.0.json",
-    "release": "https://raw.githubusercontent.com/grimpress/modules/main/friend-or-foe-folio-2/module-1.0.0.json",
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/friend-or-foe-folio-2/module.json",
+    "release": "https://raw.githubusercontent.com/grimpress/modules/main/friend-or-foe-folio-2/module.json",
     "protected": true
 }
