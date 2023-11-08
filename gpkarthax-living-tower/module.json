@@ -1,8 +1,8 @@
 {
-    "id": "gpkarthax-living-tower",
-    "title": "Karthax: The Living Tower",
+    "id": "karthax-living-tower",
+    "title": "Karthax - The Living Tower",
     "description": "A Dungeons and Dragons 5th Edition compatible adventure for players of 2nd to 8th level",
-    "version": "1.0.3",
+    "version": "11.0.0",
     "author": "Grim Press",
     "authors": [
         {
@@ -15,7 +15,7 @@
     "compatibleCoreVersion": "9",
     "compatibility": {
         "minimum": 9,
-        "verified": "10.286"
+        "verified": "11"
     },
     "packs": [
         {
