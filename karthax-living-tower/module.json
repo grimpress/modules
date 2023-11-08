@@ -75,7 +75,7 @@
             "system": "dnd5e"
         }
     ],
-    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/gpkarthax-living-tower/module.json",
-    "release":"https://raw.githubusercontent.com/grimpress/modules/main/gpkarthax-living-tower/module.json",
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/karthax-living-tower/module.json",
+    "release":"https://raw.githubusercontent.com/grimpress/modules/main/karthax-living-tower/module.json",
     "protected": true
   }
