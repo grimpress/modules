@@ -1,36 +1,36 @@
 {
-  "id": "usdm009-dimensional-delves",
-  "title": "Unearthed Spoils #009 - Dimensional Delves",
-  "version": "1.0.1",
-  "compatibility": {
-    "minimum": "11",
-    "verified": "11"
-  },
-  "description": "Each volume of Unearthed Spoils is packed with full-color art illustrating different types of content surrounding a central theme: Class Archetypes, Character Backgrounds, Magical Spells, Magic Items, Monsters &amp; NPCs; all tied together with an epic Adventure!",
-  "authors": [
-    {
-      "name": "Grim Press",
-      "email": "sales@grimpress.net",
-      "url": "https://grimpress.net",
-      "flags": {}
-    }
-  ],
-  "url": "https://grimpress.net/store/unearthed-spoils-009",
-  "packs": [
-    {
-      "name": "usdm009-dimensional-delves",
-      "label": "Unearthed Spoils #009 - Dimensional Delves",
-      "path": "packs/usdm009-dimensional-delves",
-      "type": "Adventure",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
-    }
-  ],
- "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/usdm009-dimensional-delves/module.json",
- "release":"https://raw.githubusercontent.com/grimpress/modules/main/usdm009-dimensional-delves/module.json",
- "protected": true  
+    "id": "usdm009-dimensional-delves",
+    "title": "Unearthed Spoils #009 - Dimensional Delves",
+    "version": "11.0.0",
+    "compatibility": {
+        "minimum": "11",
+        "verified": "11"
+    },
+    "description": "Each volume of Unearthed Spoils is packed with full-color art illustrating different types of content surrounding a central theme: Class Archetypes, Character Backgrounds, Magical Spells, Magic Items, Monsters &amp; NPCs; all tied together with an epic Adventure!",
+    "authors": [
+        {
+            "name": "Grim Press",
+            "email": "sales@grimpress.net",
+            "url": "https://grimpress.net",
+            "flags": {}
+        }
+    ],
+    "url": "https://grimpress.net/store/unearthed-spoils-009",
+    "packs": [
+        {
+            "name": "usdm009-dimensional-delves",
+            "label": "Unearthed Spoils #009 - Dimensional Delves",
+            "path": "packs/usdm009-dimensional-delves",
+            "type": "Adventure",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "system": "dnd5e",
+            "flags": {}
+        }
+    ],
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/usdm009-dimensional-delves/module.json",
+    "release": "https://raw.githubusercontent.com/grimpress/modules/main/usdm009-dimensional-delves/module.json",
+    "protected": true
 }
