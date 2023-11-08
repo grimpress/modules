@@ -2,10 +2,10 @@
     "name": "fates-clouded-gaze",
     "title": "Fate's Clouded Gaze",
     "description": "A 5e Compatible multi-floor dungeon crawl optimized for 4-6 players of 3rd level.",
-    "version": "1.0.4",
+    "version": "11.0.0",
     "author": "Grim press",
     "minimumCoreVersion": "0.8.6",
-    "compatibleCoreVersion": "10",
+    "compatibleCoreVersion": "11",
     "packs": [
         {
             "name": "fates-creatures",
