@@ -23,7 +23,7 @@
         }
     ],
     "url": "https://grimpress.net/store/",
-    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/wilderness-map-collection/module.json",
-    "release": "https://raw.githubusercontent.com/grimpress/modules/main/wilderness-map-collection/module.json",
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/map-collection-wilderness/module.json",
+    "release": "https://raw.githubusercontent.com/grimpress/modules/main/map-collection-wilderness/module.json",
     "protected": true
 }
