@@ -9,7 +9,9 @@
         "verified": "11"
     },
     "authors": [
-        { "name": "Grim Press" }
+        {
+            "name": "Grim Press"
+        }
     ],
     "system": "dnd5e",
     "packs": [
@@ -78,6 +80,6 @@
         }
     ],
     "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/embracing-the-void/module.json",
-    "release":"https://raw.githubusercontent.com/grimpress/modules/main/embracing-the-void/module.json",
+    "release": "https://raw.githubusercontent.com/grimpress/modules/main/embracing-the-void/module.json",
     "protected": true
 }
