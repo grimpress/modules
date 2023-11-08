@@ -36,7 +36,7 @@
             "system": "dnd5e"
         }
     ],
-    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/trap-trammels-and-triggers/module.json",
-    "release": "https://raw.githubusercontent.com/grimpress/modules/main/trap-trammels-and-triggers/module.json",
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/traps-trammels-and-triggers/module.json",
+    "release": "https://raw.githubusercontent.com/grimpress/modules/main/traps-trammels-and-triggers/module.json",
     "protected": true
 }
