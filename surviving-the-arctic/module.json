@@ -1,11 +1,11 @@
 {
     "name": "surviving-the-arctic",
     "title": "Surviving the Arctic (5e)",
-    "description": "Unearthed Spoils Digital Magazine: Volume 5",
-    "version": "1.0.3",
+    "description": "Winter's chill is ready to add difficulty into your D&D campaigns.",
+    "version": "11.0.0",
     "author": "Grim Press",
-    "minimumCoreVersion": "0.8.6",
-    "compatibleCoreVersion": "10",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "11",
     "packs": [
         {
             "name": "sta-creatures",
