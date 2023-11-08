@@ -1,11 +1,11 @@
 {
     "name": "into-fey-lands",
     "title": "Into the Fey Lands (5e)",
-    "description": "Unearthed Spoils 5e Digital Magazine.",
-    "version": "1.0.4",
+    "description": "Introduce enchanting fey creations into your D&D campaigns.",
+    "version": "11.0.0",
     "author": "Grimpress",
     "minimumCoreVersion": "0.8.6",
-    "compatibleCoreVersion": "10",
+    "compatibleCoreVersion": "11",
     "packs": [
         {
             "name": "fey-lands-archetypes",
