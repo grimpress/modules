@@ -2,7 +2,7 @@
     "id": "map-collection-wilderness",
     "title": "Map Collection - Wilderness",
     "description": "<p><strong>50</strong> new Wilderness Maps for your adventuring party to explore. </p><p>All ready to go with lighting and walls already set up.</p><p>System agnostic Scene compendium pack</p>",
-    "version": "11.0.0",
+    "version": "11.0.1",
     "minimumCoreVersion": "10",
     "compatibleCoreVersion": "11",
     "compatibility": {
