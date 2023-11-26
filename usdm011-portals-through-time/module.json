@@ -1,0 +1,34 @@
+{
+  "id": "usdm011-portals-through-time",
+  "title": "Unearthed Spoils #011 - Portals Through Time",
+  "version": "11.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "Grim Press",
+      "email": "sales@grimpress.net",
+      "url": "https://grimpress.net",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "usdm011-portals-through-time",
+      "label": "usdm011-portals-through-time",
+      "path": "packs/usdm011-portals-through-time",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+],
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/usdm011-portals-through-time/module.json",
+    "release":"https://raw.githubusercontent.com/grimpress/modules/main/usdm011-portals-through-time/module.json",
+    "protected": true
+}
