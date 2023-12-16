@@ -1,0 +1,43 @@
+{
+    "id": "usdm013-lycanthropy-unleashed",
+    "title": "Unearthed Spoils #013 - Lycanthropy Unleashed",
+    "version": "11.0.0",
+    "compatibility": {
+        "minimum": "11",
+        "verified": "11"
+    },
+    "relationships": {
+        "systems": [
+            {
+                "id": "dnd5e",
+                "type": "system",
+                "compatibility": {}
+            }
+        ]
+    },
+    "authors": [
+        {
+            "name": "Grim Press",
+            "email": "sales@grimpress.net",
+            "url": "https://grimpress.net",
+            "flags": {}
+        }
+    ],
+    "packs": [
+        {
+            "name": "usdm013-lycanthropy-unleashed",
+            "label": "Unearthed Spoils #013 - Lycanthropy Unleashed",
+            "path": "packs/usdm013-lycanthropy-unleashed",
+            "type": "Adventure",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "system": "dnd5e",
+            "flags": {}
+        }
+    ],
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/usdm013-lycanthropy-unleashed/module.json",
+    "release": "https://raw.githubusercontent.com/grimpress/modules/main/usdm013-lycanthropy-unleashed/module.json",
+    "protected": true
+}
