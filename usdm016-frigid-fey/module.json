@@ -1,0 +1,44 @@
+{
+    "id": "usdm016-frigid-fey",
+    "title": "Unearthed Spoils #016 - Frigid Fey",
+    "version": "11.0.0",
+    "compatibility": {
+        "minimum": "11",
+        "verified": "11"
+    },
+    "relationships": {
+        "systems": [
+            {
+                "id": "dnd5e",
+                "type": "system",
+                "compatibility": {}
+            }
+        ]
+    },
+    "authors": [
+        {
+            "name": "Grim Press",
+            "email": "sales@grimpress.net",
+            "url": "https://grimpress.net",
+            "flags": {}
+        }
+    ],
+    "url": "https://grimpress.net/store/unearthed-spoils-016/",
+    "packs": [
+        {
+            "name": "usdm016-frigid-fey",
+            "label": "Unearthed Spoils #016 - Frigid Fey",
+            "path": "packs/usdm016-frigid-fey",
+            "type": "Adventure",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "system": "dnd5e",
+            "flags": {}
+        }
+    ],
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/usdm016-frigid-fey/module.json",
+    "release": "https://raw.githubusercontent.com/grimpress/modules/main/usdm016-frigid-fey/module.json",
+    "protected": true
+}
