@@ -1,0 +1,43 @@
+{
+  "id": "cavern-crawls-011-015",
+  "title": "Cavern Crawls 5 Pack (#011 - #015)",
+  "version": "11.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Grim Press",
+      "email": "sales@grimpress.net",
+      "url": "https://grimpress.net",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "cavern-crawls-011-015",
+      "label": "Cavern Crawls 5 Pack (#011 - #015)",
+      "path": "packs/cavern-crawls-011-015",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+],
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/cavern-crawls-011-015/module.json",
+    "release":"https://raw.githubusercontent.com/grimpress/modules/main/cavern-crawls-011-015/module.json",
+    "protected": true
+}
