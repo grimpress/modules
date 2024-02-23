@@ -1,0 +1,46 @@
+{
+  "id": "map-collection-the-boonies",
+  "title": "Map Collection - The Boonies",
+  "version": "11.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "The Boonies Map Collection contains 50 encounter maps that you can easily drop into your long-running campaigns, suitable for any forested area off the beaten path.",
+  "authors": [
+    {
+      "name": "Grim Press",
+      "email": "sales@grimpress.net",
+      "url": "https://grimpress.net",
+      "flags": {}
+    }
+  ],
+  "url": "https://grimpress.net/store/map-collection-the-boonies/",
+  "packs": [
+    {
+      "name": "the-boonies-scenes",
+      "label": "The Boonies (Scenes)",
+      "path": "packs/the-boonies-scenes",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "the-boonies-je",
+      "label": "The Boonies",
+      "path": "packs/the-boonies-je",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+}
+],
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/map-collection-the-boonies/module.json",
+    "release":"https://raw.githubusercontent.com/grimpress/modules/main/map-collection-the-boonies/module.json",
+    "protected": true
+}
