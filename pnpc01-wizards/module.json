@@ -1,0 +1,33 @@
+{
+  "id": "pnpc01-wizards",
+  "title": "Premade Non-Player Characters 01 - Wizards",
+  "version": "11.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "Grim Press",
+      "email": "sales@grimpress.net",
+      "url": "https://grimpress.net",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "Premade NPCs 01 - Wizards",
+      "label": "Premade NPCs 01 - Wizards",
+      "path": "packs/Premade NPCs 01 - Wizards",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+}
+],
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/pnpc01-wizards/module.json",
+    "release":"https://raw.githubusercontent.com/grimpress/modules/main/pnpc01-wizards/module.json",
+    "protected": true
+}
