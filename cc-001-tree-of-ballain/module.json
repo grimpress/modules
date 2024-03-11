@@ -1,20 +1,19 @@
 {
   "id": "cc-001-tree-of-ballain",
-  "name": "cc-001-tree-of-ballain",
   "title": "Cavern Crawl #001 - Tree of Ballain (5e)",
   "description": "2nd Level Dungeon",
   "version": "11.0.0",
-  "authors": [
-    {
-      "name": "Grim Press",
-	  "url": "https://grimpress.net/",
-      "flags": {}
-    }
-  ],
   "compatibility": {
     "minimum": "0.8.8",
     "verified": "11"
   },
+  "authors": [
+    {
+      "name": "Grim Press",
+      "url": "https://grimpress.net/",
+      "flags": {}
+    }
+  ],
   "packs": [
       {
       "name": "tree-of-ballain",
@@ -28,6 +27,6 @@
     "./styles/gp_styles.css"
   ],
   "manifest": "https://raw.githubusercontent.com/grimpress/cc-001-tree-of-ballain/master/module.json",
-  "download": "https://github.com/grimpress/cc-001-tree-of-ballain/raw/main/cc-001-tree-of-ballain.zip"
+  "download": "https://github.com/grimpress/cc-001-tree-of-ballain/raw/main/cc-001-tree-of-ballain.zip",
   "protected": false
 }
