@@ -1,0 +1,34 @@
+{
+  "id": "usdm020-mirage-mysteries",
+  "title": "Unearthed Spoils #020 - Mirage Mysteries",
+  "version": "11.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "Grim Press",
+      "email": "sales@grimpress.net",
+      "url": "https://grimpress.net",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "usdm020-mirage-mysteries",
+      "label": "Unearthed Spoils #020 - Mirage Mysteries",
+      "path": "packs/usdm020-mirage-mysteries",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+}
+],
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/usdm020-mirage-mysteries/module.json",
+    "release":"https://raw.githubusercontent.com/grimpress/modules/main/usdm020-mirage-mysteries/module.json",
+    "protected": true
+}
