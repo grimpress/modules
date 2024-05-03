@@ -1,0 +1,33 @@
+{
+  "id": "fantasy-token-collection-adventurer-02",
+  "title": "Fantasy Token Collection - Adventurer 02",
+  "version": "11.0.1",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "Grim Press",
+      "email": "sales@grimpress.net",
+      "url": "https://grimpress.net",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "fantasy-token-collection-adventurers-02",
+      "label": "Fantasy Token Collection - Adventurer 02",
+      "path": "packs/fantasy-token-collection-adventurers-02",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+}
+],
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/fantasy-token-collection-adventurer-02/module.json",
+    "release":"https://raw.githubusercontent.com/grimpress/modules/main/fantasy-token-collection-adventurer-02/module.json",
+    "protected": true
+}
