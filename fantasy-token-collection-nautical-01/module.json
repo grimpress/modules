@@ -1,0 +1,33 @@
+{
+  "id": "fantasy-token-collection-nautical-01",
+  "title": "Fantasy Token Collection - Nautical 01",
+  "version": "11.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "Grim Press",
+      "email": "sales@grimpress.net",
+      "url": "https://grimpress.net",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "fantasy-token-collection-nautical-01",
+      "label": "Fantasy Token Collection - Nautical 01",
+      "path": "packs/fantasy-token-collection-nautical-01",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+}
+],
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/fantasy-token-collection-nautical-01/module.json",
+    "release":"https://raw.githubusercontent.com/grimpress/modules/main/fantasy-token-collection-nautical-01/module.json",
+    "protected": true
+}
