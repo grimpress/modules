@@ -1,0 +1,92 @@
+{
+  "id": "usdm-anth-1",
+  "title": "Unearthed Spoils - Anthology One",
+  "version": "11.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Grim Press",
+      "email": "sales@grimpress.net",
+      "url": "https://grimpress.net",
+      "flags": {}
+    }
+  ],
+  "url": "https://grimpress.net/store/",
+  "packs": [
+    {
+      "name": "usdm-anth-1-journal",
+      "label": "USDM-Anthology One-Journals",
+      "path": "packs/usdm-anth-1-journal",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "usdm-anth-1-items",
+      "label": "USDM-Anthology One-Items",
+      "path": "packs/usdm-anth-1-items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "usdm-anth-1-Creatures",
+      "label": "USDM-Anthology One-Creatures",
+      "path": "packs/usdm-anth-1-creatures",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "usdm-anth-1-scenes",
+      "label": "USDM-Anthology One-Scenes",
+      "path": "packs/usdm-anth-1-scenes",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "usdm-anth-1-tables",
+      "label": "USDM-Anthology One-Tables",
+      "path": "packs/usdm-anth-1-tables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+],
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/usdm-anth-1/module.json",
+    "release":"https://raw.githubusercontent.com/grimpress/modules/main/usdm-anth-1/module.json",
+    "protected": true
+}
