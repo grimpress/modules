@@ -1,0 +1,43 @@
+{
+  "id": "usdm024-sacred-guardians",
+  "title": "Unearthed Spoils #024 - Sacred Guardians",
+  "version": "12.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Grim Press",
+      "email": "sales@grimpress.net",
+      "url": "https://grimpress.net",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "usdm024-sacred-guardians",
+      "label": "Unearthed Spoils #024 - Sacred Guardians",
+      "path": "packs/usdm024-sacred-guardians",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+}
+],
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/usdm024-sacred-guardians/module.json",
+    "release":"https://raw.githubusercontent.com/grimpress/modules/main/usdm024-sacred-guardians/module.json",
+    "protected": true
+}
