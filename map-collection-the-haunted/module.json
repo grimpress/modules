@@ -1,0 +1,46 @@
+{
+  "id": "map-collection-the-haunted",
+  "title": "Map Collection - The Haunted",
+  "version": "12.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "The Haunted Map Collection contains 50 encounter maps that you can easily drop into your long-running campaigns, suitable for any forested area off the beaten path.",
+  "authors": [
+    {
+      "name": "Grim Press",
+      "email": "sales@grimpress.net",
+      "url": "https://grimpress.net",
+      "flags": {}
+    }
+  ],
+  "url": "https://grimpress.net/store/map-collection-the-haunted/",
+  "packs": [
+    {
+      "name": "the-haunted-scenes",
+      "label": "The Haunted (Scenes)",
+      "path": "packs/the-haunted-scenes",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "the-haunted-je",
+      "label": "The Haunted",
+      "path": "packs/the-haunted-je",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+}
+],
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/map-collection-the-haunted/module.json",
+    "release":"https://raw.githubusercontent.com/grimpress/modules/main/map-collection-the-haunted/module.json",
+    "protected": true
+}
