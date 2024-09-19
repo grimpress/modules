@@ -1,0 +1,37 @@
+{
+  "id": "cavern-crawls-054-056",
+  "title": "Cavern Crawls 3 Pack (#054 - #056)",
+  "version": "12.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "Purchase issues #054, #055, and #056 of our Cavern Crawls “5-room” Dungeon series in this 3 pack.",
+  "authors": [
+    {
+      "name": "Grim Press",
+      "email": "sales@grimpress.net",
+      "url": "https://grimpress.net",
+      "discord": "Grim Press",
+      "flags": {}
+    }
+  ],
+  "url": "https://grimpress.net/store/cavern-crawls-5-pack-054-056/",
+  "packs": [
+    {
+      "name": "cavern-crawls-054-056",
+      "label": "Cavern Crawls 054-056",
+      "path": "packs/cavern-crawls-054-056",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+}
+],
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/cavern-crawls-054-056/module.json",
+    "release":"https://raw.githubusercontent.com/grimpress/modules/main/cavern-crawls-054-056/module.json",
+    "protected": true
+}
