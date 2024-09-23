@@ -1,0 +1,43 @@
+{
+  "id": "usdm025-unholy-rebirth",
+  "title": "Unearthed Spoils #025 - Unholy Rebirth",
+  "version": "12.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Grim Press",
+      "email": "sales@grimpress.net",
+      "url": "https://grimpress.net",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "usdm025-unholy-rebirth",
+      "label": "Unearthed Spoils #025 - Unholy Rebirth",
+      "path": "packs/usdm025-unholy-rebirth",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+}
+],
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/usdm025-unholy-rebirth/module.json",
+    "release":"https://raw.githubusercontent.com/grimpress/modules/main/usdm025-unholy-rebirth/module.json",
+    "protected": true
+}
