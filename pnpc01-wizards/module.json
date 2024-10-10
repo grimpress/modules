@@ -1,7 +1,7 @@
 {
   "id": "pnpc01-wizards",
-  "title": "Premade Non-Player Characters 01 - Wizards",
-  "version": "11.0.0",
+  "title": "Premade NPCs: Wizards",
+  "version": "11.0.1",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -16,9 +16,9 @@
   ],
   "packs": [
     {
-      "name": "Premade NPCs 01 - Wizards",
-      "label": "Premade NPCs 01 - Wizards",
-      "path": "packs/Premade NPCs 01 - Wizards",
+      "name": "Premade NPCs - Wizards",
+      "label": "Premade NPCs - Wizards",
+      "path": "packs/Premade NPCs - Wizards",
       "type": "JournalEntry",
       "ownership": {
         "PLAYER": "OBSERVER",
