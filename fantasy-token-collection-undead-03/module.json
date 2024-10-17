@@ -1,0 +1,34 @@
+{
+  "id": "fantasy-token-collection-undead-03",
+  "title": "Fantasy Token Collection  - Undead 03",
+  "version": "12.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Grim Press",
+      "email": "sales@grimpress.net",
+      "url": "https://grimpress.net",
+      "flags": {}
+    }
+  ],
+  "url": "https://grimpress.net/store/fantasy-token-collection-undead-03/",
+  "packs": [
+    {
+      "name": "fantasy-token-collection-undead-03",
+      "label": "Fantasy Token Collection - Undead 03",
+      "path": "packs/fantasy-token-collection-undead-03",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+}
+],
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/fantasy-token-collection-undead-03/module.json",
+    "release":"https://raw.githubusercontent.com/grimpress/modules/main/fantasy-token-collection-undead-03/module.json",
+    "protected": true
+}
