@@ -1,0 +1,33 @@
+{
+  "id": "pnpc-human-commoners",
+  "title": "Premade NPCs - Human Commoners",
+  "version": "12.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Grim Press",
+      "email": "sales@grimpress.net",
+      "url": "https://grimpress.net",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "Premade NPCs - Human Commoners",
+      "label": "Premade NPCs - Human Commoners",
+      "path": "packs/pnpc-human-commoners",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+}
+],
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/pnpc-human-commoners/module.json",
+    "release":"https://raw.githubusercontent.com/grimpress/modules/main/pnpc-human-commoners/module.json",
+    "protected": true
+}
