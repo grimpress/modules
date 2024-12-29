@@ -1,0 +1,42 @@
+{
+  "id": "usdm028-alpine-adventures",
+  "title": "Unearthed Spoils #028 - Alpine Adventures",
+  "version": "12.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Grim Press",
+      "email": "sales@grimpress.net",
+      "url": "https://grimpress.net",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "usdm028-alpine-adventures",
+      "label": "Unearthed Spoils #028 - Alpine Adventures",
+      "path": "packs/usdm028-alpine-adventures",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+}
+],
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/usdm028-alpine-adventures/module.json",
+    "protected": true
+}
