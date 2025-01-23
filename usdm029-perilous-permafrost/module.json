@@ -1,0 +1,42 @@
+{
+  "id": "usdm029-perilous-permafrost",
+  "title": "Unearthed Spoils #029 - Perilous Permafrost",
+  "version": "12.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Grim Press",
+      "email": "sales@grimpress.net",
+      "url": "https://grimpress.net",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "usdm029-perilous-permafrost",
+      "label": "Unearthed Spoils #029 - Perilous Permafrost",
+      "path": "packs/usdm029-perilous-permafrost",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+}
+],
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/usdm029-perilous-permafrost/module.json",
+    "protected": true
+}
