@@ -3,10 +3,10 @@
     "name": "allies-and-antagonists",
     "title": "Allies and Antagonists",
     "description": "A big book of NPCs for 5e",
-    "version": "11.0.0",
+    "version": "12.0.0",
     "compatibility": {
         "minimum": "9",
-        "verified": "11"
+        "verified": "12"
     },
     "authors": [
         { "name": "Grim Press" }
@@ -37,6 +37,5 @@
     "systems": [{"id": "dnd5e"}]
   },
     "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/allies-and-antagonists/module.json",
-    "release": "https://raw.githubusercontent.com/grimpress/modules/main/allies-and-antagonists/module.json",
     "protected": true
 }
