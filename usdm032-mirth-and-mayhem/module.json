@@ -1,0 +1,42 @@
+{
+  "id": "usdm032-mirth-and-mayhem",
+  "title": "Unearthed Spoils #032 - Mirth and Mayhem",
+  "version": "12.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Grim Press",
+      "email": "sales@grimpress.net",
+      "url": "https://grimpress.net",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "usdm032-mirth-and-mayhem",
+      "label": "Unearthed Spoils #032 - Mirth and Mayhem",
+      "path": "packs/usdm032-mirth-and-mayhem",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+}
+],
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/usdm032-mirth-and-mayhem/module.json",
+    "protected": true
+}
