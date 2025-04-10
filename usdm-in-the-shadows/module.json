@@ -2,8 +2,8 @@
     "id": "usdm-in-the-shadows",
     "name": "usdm-in-the-shadows",
     "title": "Unearthed Spoils SE - In the Shadows",
-    "description": "This is a special edition of our 5e Unearthed Spoils Digital Magazine focused on giving GMs tools to introduce and run Thieves' Guilds.",
-    "version": "11.0.1",
+    "description": "This is a special edition of our 5e Unearthed Spoils Digital Magazine focused on giving GMs tools to introduce and run thieves' guilds.",
+    "version": "12.0.1",
     "authors": [
         {
             "name": "Grim Press",           
@@ -14,7 +14,7 @@
     "compatibleCoreVersion": "9",
     "compatibility": {
         "minimum": "0.8.6",
-        "verified": "11"
+        "verified": "12"
     },
     "packs": [
         {
@@ -85,9 +85,8 @@
             "path": "./packs/roll-tables.db",
             "entity": "RollTable",
             "type": "RollTable"
-        }
-    ],
+}
+],
     "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/usdm-in-the-shadows/module.json",
-    "release":"https://raw.githubusercontent.com/grimpress/modules/main/usdm-in-the-shadows/module.json",
-   "protected": true
- }
+    "protected": true
+}
