@@ -1,0 +1,34 @@
+{
+  "id": "usdm035-claw-and-fang",
+  "title": "Unearthed Spoils #035 - Claw and Fang",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Grim Press",
+      "email": "sales@grimpress.net",
+      "url": "https://grimpress.net",
+      "flags": {}
+    }
+  ],
+  "url": "https://grimpress.net/store/unearthed-spoils-035/",
+  "packs": [
+    {
+      "name": "usdm035-claw-and-fang",
+      "label": "Unearthed Spoils #035 - Claw and Fang",
+      "path": "packs/usdm035-claw-and-fang",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+}
+],
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/usdm035-claw-and-fang/module.json",
+    "protected": true
+}
