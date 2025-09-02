@@ -1,0 +1,34 @@
+{
+    "id": "usdm037-mirebound-menaces",
+    "title": "Unearthed Spoils #037 - Mirebound Menaces",
+    "version": "1.0.0",
+    "compatibility": {
+        "minimum": "13",
+        "verified": "13"
+    },
+    "authors": [
+        {
+            "name": "Grim Press",
+            "email": "sales@grimpress.net",
+            "url": "https://grimpress.net",
+            "flags": {}
+        }
+    ],
+    "url": "https://grimpress.net/store/unearthed-spoils-037/",
+    "packs": [
+        {
+            "name": "usdm037-mirebound-menaces",
+            "label": "Unearthed Spoils #037 - Mirebound Menaces",
+            "path": "packs/usdm037-mirebound-menaces",
+            "type": "Adventure",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "system": "dnd5e",
+            "flags": {}
+        }
+    ],
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/usdm037-mirebound-menaces/module.json",
+    "protected": true
+}
