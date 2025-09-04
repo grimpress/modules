@@ -3,7 +3,7 @@
     "name": "usdm-in-the-shadows",
     "title": "Unearthed Spoils SE - In the Shadows",
     "description": "This is a special edition of our 5e Unearthed Spoils Digital Magazine focused on giving GMs tools to introduce and run thieves' guilds.",
-    "version": "12.0.1",
+    "version": "13.0.0",
     "authors": [
         {
             "name": "Grim Press",           
@@ -13,8 +13,8 @@
     "minimumCoreVersion": "0.8.6",
     "compatibleCoreVersion": "9",
     "compatibility": {
-        "minimum": "0.8.6",
-        "verified": "12"
+        "minimum": "9",
+        "verified": "13"
     },
     "packs": [
         {
