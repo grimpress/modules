@@ -1,10 +1,10 @@
 {
   "id": "usdm-anth-1",
   "title": "Unearthed Spoils - Anthology One",
-  "version": "11.0.0",
+  "version": "13.0.0",
   "compatibility": {
     "minimum": "11",
-    "verified": "11"
+    "verified": "13"
   },
   "relationships": {
     "systems": [
@@ -87,6 +87,5 @@
     }
 ],
     "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/usdm-anth-1/module.json",
-    "release":"https://raw.githubusercontent.com/grimpress/modules/main/usdm-anth-1/module.json",
     "protected": true
 }
