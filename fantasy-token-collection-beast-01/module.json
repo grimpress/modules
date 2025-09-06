@@ -1,0 +1,36 @@
+{
+  "id": "fantasy-token-collection-beasts-01",
+  "title": "Fantasy Token Collection - Beast 01",
+  "version": "13.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Grim Press",
+      "email": "sales@grimpress.net",
+      "url": "https://grimpress.net",
+      "flags": {}
+    }
+  ],
+  "url": "https://grimpress.net/store/fantasy-token-collection-beast-01",
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "fantasy-token-collection-beasts-01",
+      "label": "Fantasy Token Collection - Beast 01",
+      "path": "packs/fantasy-token-collection-beasts-01",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+ ],
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/fantasy-token-collection-beast-01/module.json",
+    "protected": true
+}
