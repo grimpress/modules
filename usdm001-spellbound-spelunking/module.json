@@ -1,33 +1,43 @@
 {
-    "id": "usdm001-spellbound-spelunking",
-    "name": "usdm001-spellbound-spelunking",
-    "title": "USDM001 - Spellbound Spelunking",
-    "description": "Unearthed Spoils Digital Magazine, Volume #001.",
-    "version": "11.0.0",
-    "authors": [
-        {
-            "name": "Grim Press",
-            "discord": "https://discord.gg/grimpress",
-            "url": "https://grimpress.net/"
-        }
-    ],
-    "minimumCoreVersion": "0.8.6",
-    "compatibleCoreVersion": "9",
-    "compatibility": {
-        "minimum": "0.8.6",
-        "verified": "10"
-    },
-    "packs": [
-        {
-            "name": "usdm001-spellbound-spelunking-adventures",
-            "label": "Spellbound Spelunking Adventures",
-            "path": "./packs/adventures.db",
-            "entity": "Adventure",
-            "type": "Adventure",
-            "system": "dnd5e"			
-        }
-    ],
+  "id": "usdm001-spellbound-spelunking",
+  "title": "Unearthed Spoils #001 - Spellbound Spelunking",
+  "version": "13.0.1",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Grim Press",
+      "email": "sales@grimpress.net",
+      "url": "https://grimpress.net",
+      "flags": {}
+    }
+  ],
+  "url": "https://grimpress.net/store/unearthed-spoils-001/",
+  "packs": [
+    {
+      "name": "usdm001-spellbound-spelunking",
+      "label": "Unearthed Spoils #001 - Spellbound Spelunking",
+      "path": "packs/adventures.db",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+}
+],
     "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/usdm001-spellbound-spelunking/module.json",
-    "release":"https://raw.githubusercontent.com/grimpress/modules/main/usdm001-spellbound-spelunking/module.json",
     "protected": true
-  }
+}
