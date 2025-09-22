@@ -1,0 +1,39 @@
+{
+    "id": "usdm002-white-desolation",
+    "title": "Unearthed Spoils #002 - White Desolation",
+  "version": "13.0.1",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+   "authors": [
+    {
+      "name": "Grim Press",
+      "email": "sales@grimpress.net",
+      "url": "https://grimpress.net",
+      "flags": {}
+    }
+  ],
+  "url": "https://grimpress.net/store/unearthed-spoils-002/", 
+    "packs": [
+        {
+            "name": "usdm002-white-desolation-adventures",
+            "label": "Unearthed Spoils #002 - White Desolation",
+            "path": "./packs/adventures.db",
+            "entity": "Adventure",
+            "type": "Adventure",
+            "system": "dnd5e"			
+}
+],
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/usdm002-white-desolation-v1301/module.json",
+    "protected": true
+}
