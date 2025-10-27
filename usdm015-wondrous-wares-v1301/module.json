@@ -1,0 +1,34 @@
+{
+  "id": "usdm015-wondrous-wares",
+  "title": "Unearthed Spoils #015 - Wondrous Wares",
+  "version": "13.0.1",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Grim Press",
+      "email": "sales@grimpress.net",
+      "url": "https://grimpress.net",
+      "flags": {}
+    }
+  ],
+  "url": "https://grimpress.net/store/unearthed-spoils-015/",
+  "packs": [
+    {
+      "name": "usdm015-wondrous-wares",
+      "label": "Unearthed Spoils #015 - Wondrous Wares",
+      "path": "packs/usdm015-wondrous-wares",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+}
+],
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/usdm015-wondrous-wares-v1301/module.json",
+    "protected": true
+}
