@@ -1,0 +1,34 @@
+{
+  "id": "usdm014-among-the-giants",
+  "title": "Unearthed Spoils #014 - Among the Giants",
+  "version": "13.0.1",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Grim Press",
+      "email": "sales@grimpress.net",
+      "url": "https://grimpress.net",
+      "flags": {}
+    }
+  ],
+   "url": "https://grimpress.net/store/unearthed-spoils-014/",
+  "packs": [
+    {
+      "name": "usdm014-among-the-giants",
+      "label": "Unearthed Spoils #014 - Among the Giants",
+      "path": "packs/usdm014-among-the-giants",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+}
+],
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/usdm014-among-the-giants-v1301/module.json",
+    "protected": true
+}
