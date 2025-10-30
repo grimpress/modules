@@ -1,0 +1,33 @@
+{
+  "id": "fantasy-token-collection-adventurer-04",
+  "title": "Fantasy Token Collection - Adventurer 04",
+  "version": "13.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Grim Press",
+      "email": "sales@grimpress.net",
+      "url": "https://grimpress.net",
+      "flags": {}
+    }
+  ],
+  "url": "https://grimpress.net",
+  "packs": [
+    {
+      "name": "fantasy-token-collection-adventurer-04",
+      "label": "Fantasy Token Collection - Adventurer 04",
+      "path": "packs/fantasy-token-collection-adventurer-04",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+}
+],
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/fantasy-token-collection-adventurer-04-v1300/module.json",
+    "protected": true
+}
