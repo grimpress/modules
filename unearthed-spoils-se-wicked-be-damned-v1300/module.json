@@ -1,0 +1,80 @@
+{
+    "id": "usdmse-wicked-be-damned",
+    "title": "Unearthed Spoils Special Edition - Wicked Be Damned",
+    "version": "13.0.0",
+    "compatibility": {
+        "minimum": "13",
+        "verified": "13"
+    },
+    "authors": [
+        {
+            "name": "Grim Press",
+            "email": "sales@grimpress.net",
+            "url": "https://grimpress.net",
+            "flags": {}
+        }
+    ],
+    "url": "https://grimpress.net/store/unearthed-spoils-se-wicked-be-damned/",
+    "packs": [
+        {
+            "name": "pack-1",
+            "label": "Wicked Be Damned - Creatures",
+            "path": "packs/pack-1",
+            "type": "Actor",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "system": "dnd5e",
+            "flags": {}
+        },
+        {
+            "name": "pack-2",
+            "label": "Wicked Be Damned - Items",
+            "path": "packs/pack-2",
+            "type": "Item",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "system": "dnd5e",
+            "flags": {}
+        },
+        {
+            "name": "pack-3",
+            "label": "Wicked Be Damned - Subclasses",
+            "path": "packs/pack-3",
+            "type": "Item",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "system": "dnd5e",
+            "flags": {}
+        },
+        {
+            "name": "pack-4",
+            "label": "Wicked Be Damned - Scenes",
+            "path": "packs/pack-4",
+            "type": "Scene",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "flags": {}
+        },
+        {
+            "name": "pack-5",
+            "label": "Wicked Be Damned - Journal Entries",
+            "path": "packs/pack-5",
+            "type": "JournalEntry",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "flags": {}
+        }
+    ],
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/unearthed-spoils-se-wicked-be-damned-v1300/module.json",
+    "protected": true
+}
