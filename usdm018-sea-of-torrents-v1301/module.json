@@ -1,0 +1,33 @@
+{
+  "id": "usdm018-sea-of-torrents",
+  "title": "Unearthed Spoils #018 - Sea of Torrents",
+  "version": "13.0.1",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Grim Press",
+      "email": "sales@grimpress.net",
+      "url": "https://grimpress.net",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "usdm018-sea-of-torrents",
+      "label": "Unearthed Spoils #018 - Sea of Torrents",
+      "path": "packs/usdm018-sea-of-torrents",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+}
+],
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/usdm018-sea-of-torrents-v1301/module.json",
+    "protected": true
+}
