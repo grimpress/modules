@@ -1,0 +1,32 @@
+{
+  "id": "pnpc01-wizards",
+  "title": "Premade NPCs - Wizards",
+  "version": "14.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "Grim Press",
+      "email": "sales@grimpress.net",
+      "url": "https://grimpress.net",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "pnpc01-wizards",
+      "label": "Premade NPCs - Wizards",
+      "path": "packs/pnpc01-wizards",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+}
+],
+    "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/pnpc01-wizards-v1400/module.json",
+    "protected": true
+}
