@@ -1,0 +1,88 @@
+{
+  "id": "traps-trammels-and-triggers",
+  "title": "Traps, Trammels, and Triggers",
+  "version": "14.0.3",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "description": "<p>101 traps and 169 variants for GMs, presented as Feature Items with native D&D5e Activities, source-matched rules, and outcome tables. Operate directly from the compendium. No Actor, macro, or third-party module required.</p>",
+  "authors": [
+    {
+      "name": "Grim Press",
+      "email": "sales@grimpress.net",
+      "url": "https://grimpress.net"
+    }
+  ],
+  "url": "https://grimpress.net/store/traps-trammels-triggers/",
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "6.0.3"
+        }
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/trap-controls.mjs"
+  ],
+  "styles": [
+    "styles/traps.css"
+  ],
+  "packs": [
+    {
+      "name": "trap-trammels-and-triggers",
+      "label": "Trap Library",
+      "path": "packs/trap-trammels-and-triggers",
+      "type": "Item",
+      "system": "dnd5e",
+      "banner": "modules/traps-trammels-and-triggers/artwork/compendium-banner.webp",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "traps-journal-entries",
+      "label": "GM Guide & Reference",
+      "path": "packs/traps-journal-entries",
+      "type": "JournalEntry",
+      "banner": "modules/traps-trammels-and-triggers/artwork/compendium-banner.webp",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "traps-roll-tables",
+      "label": "Trap Outcome Tables",
+      "path": "packs/traps-roll-tables",
+      "type": "RollTable",
+      "banner": "modules/traps-trammels-and-triggers/artwork/compendium-banner.webp",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Traps, Trammels & Triggers",
+      "sorting": "m",
+      "color": "#785835",
+      "packs": [
+        "trap-trammels-and-triggers",
+        "traps-journal-entries",
+        "traps-roll-tables"
+      ]
+    }
+  ],
+  "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/traps-trammels-and-triggers-v1403/module.json",
+  "protected": true
+}
