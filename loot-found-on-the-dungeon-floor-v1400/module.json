@@ -1,0 +1,91 @@
+{
+  "id": "loot-found-on-the-dungeon-floor",
+  "title": "Loot Found on the Dungeon Floor",
+  "version": "14.0.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "description": "This product is a collaborative effort by several experienced content creators to write up some new and interesting magical items for players in the world's greatest roleplaying game to find in their adventures. You'll find over two hundred unique magic items that you can insert into the dungeons, catacombs, treasure chests, and tombs that your players invariably search for loot.",
+  "authors": [
+    {
+      "name": "Grim Press",
+      "email": "sales@grimpress.net",
+      "url": "https://grimpress.net/"
+    }
+  ],
+  "packs": [
+    {
+      "name": "lotf-journal",
+      "label": "Loot Guide & Credits",
+      "path": "packs/lfotdf-journal",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "banner": "modules/loot-found-on-the-dungeon-floor/resources/images/compendium-banner.webp"
+    },
+    {
+      "name": "lfotdf-items",
+      "label": "Magic Items",
+      "path": "packs/lfotdf-items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "banner": "modules/loot-found-on-the-dungeon-floor/resources/images/compendium-banner.webp"
+    },
+    {
+      "name": "lfotdf-npcs",
+      "label": "Creatures",
+      "path": "packs/lfotdf-npcs",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "banner": "modules/loot-found-on-the-dungeon-floor/resources/images/compendium-banner.webp"
+    },
+    {
+      "name": "lfotdf-tables",
+      "label": "Roll Tables",
+      "path": "packs/lfotdf-tables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "banner": "modules/loot-found-on-the-dungeon-floor/resources/images/compendium-banner.webp"
+    }
+  ],
+  "url": "https://grimpress.net/store/loot-found-on-the-dungeon-floor/",
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "6.0.6"
+        }
+      }
+    ]
+  },
+  "packFolders": [
+    {
+      "name": "Loot Found on the Dungeon Floor",
+      "sorting": "m",
+      "packs": [
+        "lotf-journal",
+        "lfotdf-items",
+        "lfotdf-npcs",
+        "lfotdf-tables"
+      ]
+    }
+  ],
+  "protected": true,
+  "manifest": "https://raw.githubusercontent.com/grimpress/modules/main/loot-found-on-the-dungeon-floor-v1400/module.json"
+}
